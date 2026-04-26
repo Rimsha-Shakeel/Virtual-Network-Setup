@@ -98,5 +98,3 @@ BSCS Student
 If you found this project helpful, give it a ⭐ on GitHub!
 
 ---
-
-> ⚠️ Replace `your-username/your-repo-name` in badges with your actual GitHub repository details.
